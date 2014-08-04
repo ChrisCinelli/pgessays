@@ -4,7 +4,7 @@ pgessays
 Paul Graham's essays from web to epub
 This script crawl the web for Paul Graham's essays and compile them together in epub ebook that can be read on your laptop, tablet or phone.
 
-The main file is `pgessays.py`. The full collection of essays updated on August 4th, 2014 is included on this repo.
+The main file is `pgessays.py`. [The full collection of Paul Graham's essays is included on this repo](https://github.com/ChrisCinelli/pgessays/raw/master/Paul%20Graham's%20Essays.epub) (updated on August 4th, 2014).
 
 ### Run it
 
