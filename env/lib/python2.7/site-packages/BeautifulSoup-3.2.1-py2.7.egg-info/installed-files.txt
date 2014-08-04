@@ -1,0 +1,9 @@
+../BeautifulSoup.py
+../BeautifulSoupTests.py
+../BeautifulSoup.pyc
+../BeautifulSoupTests.pyc
+./
+PKG-INFO
+top_level.txt
+dependency_links.txt
+SOURCES.txt
